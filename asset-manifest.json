@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5dba37fe.css",
+    "main.js": "/static/js/main.037dea27.js",
+    "static/js/787.0edbcda9.chunk.js": "/static/js/787.0edbcda9.chunk.js",
+    "static/media/visa-logo.png": "/static/media/visa-logo.ed219a0d5962ba3d175e.png",
+    "index.html": "/index.html",
+    "main.5dba37fe.css.map": "/static/css/main.5dba37fe.css.map",
+    "main.037dea27.js.map": "/static/js/main.037dea27.js.map",
+    "787.0edbcda9.chunk.js.map": "/static/js/787.0edbcda9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dba37fe.css",
+    "static/js/main.037dea27.js"
+  ]
+}
